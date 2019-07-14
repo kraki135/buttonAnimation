@@ -1,4 +1,7 @@
 body {
-background-color: black;
+background: url('img/macbook-926425_1920.jpg');
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
 color: white;    
 }
